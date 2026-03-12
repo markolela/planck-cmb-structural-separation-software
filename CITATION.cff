@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite this repository. For exact reproducibility, cite the archived release DOI once it is available."
+message: "If you use this software, please cite the Zenodo record. Prefer the specific version DOI for exact reproducibility."
 title: "planck-cmb-structural-separation-software"
 type: software
 authors:
@@ -9,6 +9,11 @@ authors:
 license: "Apache-2.0"
 repository-code: "https://github.com/markolela/planck-cmb-structural-separation-software"
 url: "https://github.com/markolela/planck-cmb-structural-separation-software"
+doi: "10.5281/zenodo.18972934"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18972935"
+    description: "Zenodo version DOI for GitHub release v1.0.0"
 keywords:
   - CMB
   - Planck 2018
@@ -16,3 +21,13 @@ keywords:
   - surrogate null models
   - phase randomization
   - reproducibility
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Lela"
+      given-names: "Marko"
+      orcid: "https://orcid.org/0009-0008-0768-5184"
+  title: "planck-cmb-structural-separation-software"
+  version: "v1.0.0"
+  doi: "10.5281/zenodo.18972935"
+  url: "https://github.com/markolela/planck-cmb-structural-separation-software"

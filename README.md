@@ -12,9 +12,20 @@ Large artifact bundles are not stored in this repository.
 
 ## Scope
 
-This repository is the software companion to the CMB1 paper.
+This repository is the software companion to the paper:
+
+Robust Structural Separation of Planck 2018 CMB Temperature Patches from Phase-Randomized Power-Preserving Surrogates
+
 Its role is to provide the analysis code.
-The released artifact bundles, numerical outputs, and archived software DOI will be linked separately once the public archival records are finalized.
+The released artifact bundles and numerical outputs are linked separately from the software repository.
+
+## Software DOI
+
+Concept DOI:
+https://doi.org/10.5281/zenodo.18972934
+
+Version DOI (v1.0.0):
+https://doi.org/10.5281/zenodo.18972935
 
 ## Reproducibility
 
@@ -54,4 +65,8 @@ Apache-2.0. See `LICENSE`.
 
 See `CITATION.cff`.
 
-A versioned archival DOI will be added once the software release is deposited.
+Concept DOI:
+https://doi.org/10.5281/zenodo.18972934
+
+Version DOI (v1.0.0):
+https://doi.org/10.5281/zenodo.18972935
